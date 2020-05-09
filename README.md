@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Zweistein-007/XSStrike)](https://repl.it/github/Zweistein-007/XSStrike)
 <h1 align="center">
   <br>
   <a href="https://github.com/s0md3v/XSStrike"><img src="https://image.ibb.co/cpuYoA/xsstrike-logo.png" alt="XSStrike"></a>
